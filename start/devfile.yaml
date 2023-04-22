@@ -22,9 +22,9 @@ components:
       - name: ZCON_DESIGNER_PROJECT
         value: /projects/catalog-manager-api/start
       - name: CICS_USER
-        value: nestor
+        value: "nestor"
       - name: CICS_PASSWORD
-        value: {aes}AIWhV212kzbcBjIsrNBk1GB4EUobOnfoi8aYNw5bFd95
+        value: "{aes}AIWhV212kzbcBjIsrNBk1GB4EUobOnfoi8aYNw5bFd95"
       - name: CICS_HOST
         value: 169.57.133.21
       - name: CICS_PORT
